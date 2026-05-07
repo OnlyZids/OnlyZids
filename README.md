@@ -36,7 +36,7 @@ I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri J
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yazid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OnlyZids&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yazid's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
