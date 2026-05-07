@@ -1,51 +1,18 @@
-# ⚡ Hi there, I'm Yazid!
+# 💫 About Me:
+   ⚡ Hi there, I'm Yazid!<br><br>  "No risk no Ferrari." 🏎️💨<br><br>I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri Jember. I blend business acumen with technical execution, focusing on modern web aesthetics (shoutout to Brutalist design 🏗️) and impactful digital solutions.<br><br>    🚀 What I've Been Building & Exploring<br><br>🌱Current Focus: Deepening my knowledge in Web Security (Content Security Policy, ZAP scanning) and Data Science(K-Means Clustering, AHP Algorithm, Decision Trees).<br>💼 Projects I'm Proud Of:<br>   ♻️ E-Warung Sirkular: A circular economy system helping users pay debts through waste recycling via QR codes.<br>    🗺️ B-JOURNEY:  A smart tourism ecosystem concept developed for Bondowoso (PKM).<br>    🌐 Yazidgo: A custom web project successfully built and listed on Flippa.<br>      🎨 Polije Business Department Portfolio:  A modern web portfolio showcasing dynamic UI with Framer Motion.<br>     🎁 Interactive Web Experiences: Creating personalized, secure web applications featuring custom UI, interactive elements, and curated audio players.<br> 🏆 Experience: Participated in the APBISDI & FEB UNJ UI/UX Competition, and conducted structural Management Risk Analysis (ISO 9001, 14001, 45001) for enterprise-level operations.
 
-**"No risk no Ferrari."** 🏎️💨
 
-I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri Jember. I blend business acumen with technical execution, focusing on modern web aesthetics (shoutout to Brutalist design 🏗️) and impactful digital solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zidxs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Moch Yazid Al Bustomi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Zids) 
 
----
-
-## 🚀 What I've Been Building & Exploring
-
-*   🌱 **Current Focus:** Deepening my knowledge in **Web Security** (Content Security Policy, ZAP scanning) and **Data Science** (K-Means Clustering, AHP Algorithm, Decision Trees).
-*   💼 **Projects I'm Proud Of:**
-    *   ♻️ **E-Warung Sirkular:** A circular economy system helping users pay debts through waste recycling via QR codes.
-    *   🗺️ **B-JOURNEY:** A smart tourism ecosystem concept developed for Bondowoso (PKM).
-    *   🌐 **Yazidgo:** A custom web project successfully built and listed on Flippa.
-    *   🎨 **Polije Business Department Portfolio:** A modern web portfolio showcasing dynamic UI with Framer Motion.
-    *   🎁 **Interactive Web Experiences:** Creating personalized, secure web applications featuring custom UI, interactive elements, and curated audio players.
-*   🏆 **Experience:** Participated in the APBISDI & FEB UNJ UI/UX Competition, and conducted structural Management Risk Analysis (ISO 9001, 14001, 45001) for enterprise-level operations.
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=OnlyZids&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=OnlyZids&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OnlyZids&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=OnlyZids&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack & Tools
-
-**Languages & Frameworks:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Design, Security & Methods:**
-`Brutalist Web Design` • `Framer Motion` • `UI/UX` • `OWASP ZAP` • `Machine Learning`
-
----
-
-## 📈 GitHub Stats
-
-
-<div align="center">
-
-[![Yazid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnlyZids&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/OnlyZids)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyZids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/OnlyZids)
-
-</div>
-
----
-🎧 **Currently looping:** The 1975, NIKI, Lana Del Rey, and Justin Bieber.  
-📈 **Side Hustle:** Monitoring the Indonesian stock market (BUMI, RICY).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
