@@ -35,12 +35,15 @@ I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri J
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnlyZids&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yazid's GitHub Stats" />
-</div>
+
+[![Yazid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnlyZids&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/OnlyZids)
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyZids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyZids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/OnlyZids)
+
 </div>
 
 ---
