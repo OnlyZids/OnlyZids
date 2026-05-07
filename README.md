@@ -2,7 +2,7 @@
 
 **"No risk no Ferrari."** 🏎️💨
 
-I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri Jember, currently based in Bondowoso. I blend business acumen with technical execution, focusing on modern web aesthetics (shoutout to Brutalist design 🏗️) and impactful digital solutions.
+I'm a Full-Stack Developer and a Digital Business student at Politeknik Negeri Jember. I blend business acumen with technical execution, focusing on modern web aesthetics (shoutout to Brutalist design 🏗️) and impactful digital solutions.
 
 ---
 
